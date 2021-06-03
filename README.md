@@ -6,9 +6,9 @@
 A project management app created using ReactJs in which firebase services like firebase authentication, firebase realtime databse and firebase hosting are being used.Only authenticated student can upload and update their project details and a admin panel is there for giving marks and checking project of a student.
 
 # Features
-1. Login through firebase authentication
-2. Create account 
-3. Realtime updation of record
+1. Login through firebase authentication -[x]
+2. Create account -[x]
+3. Realtime updation of record -[x]
 
 # Technologies
 1. [React Js](https://reactjs.org/)
